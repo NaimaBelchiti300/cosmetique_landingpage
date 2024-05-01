@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan:ital@0;1&display=swap');
+body{
+    font-family: "Sedan", serif;
+}
+
+nav{
+    background-color: #E5D4B8;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+nav .logo{
+    font-weight:bold;
+    font-size: 40px;
+    color: #15454E;
+
+}
+.logo{
+    margin-left: 100px;
+
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+
+}
+nav ul li{
+    display: flex;
+    padding: 10px;
+    font-size: 25px;
+    
+}
+.icon img{
+    width: 35%;
+    color: black;
+    padding: 1px;
+}
+.icon{
+    margin-right: 200px;
+
+}
+nav ul li a{
+    text-decoration:none ;
+    color: #15454E;
+}
+.logo img{
+    display: none;
+}
+.nav-fixed{
+    width: 100%;
+    background-color: #F9F6EF;
+    position: fixed;
+    z-index: 1;
+}
+
+
+@media screen and (max-width:1100px) {
+
+    nav{
+        background-color: #E5D4B8;
+        display: block;
+        width: 100%;
+        overflow-x: hidden;
+
+    }
+    .logo{
+        width: 100%;
+        align-items: center;
+        justify-content: space-around;
+        display: flex;
+        margin: 15px;
+    }
+    .logo img{
+        display: flex;
+        cursor: pointer;
+    }
+    nav .logo{
+        font-weight:bold;
+        font-size: 40px;
+        color: #15454E;
+        padding: 0px;
+    
+    }
+    .logo{
+        margin-left: 0px;
+    
+    }
+
+    nav ul{
+      display: none;
+    
+    }
+
+
+    .menu {
+        background-color: #E5D4B8;
+        display: block;
+        width: 100%;
+        overflow-x: hidden;
+    }
+    
+
+    
+    
+    .menu  {
+        background-color: #E5D4B8;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        width: 90%;
+        height: 100vh;
+
+    }
+    
+    .menu  li {
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+         font-size: 30px;
+         margin: 45px;
+
+    }
+ 
+    
+    .menu   li a {
+        text-decoration: none;
+        color: #15454E;
+
+    }
+    
+
+
+     
+    .icon {
+        display: none;
+    }
+    
+  
+}

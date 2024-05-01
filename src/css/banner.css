@@ -1,0 +1,115 @@
+.banner{
+    background-image: url('../images/Visuel_Cosmetique_Amlat_2023.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-blend-mode: multiply;
+    background-position: center;
+    height: 100vh;
+    color:#154A66;
+    background-color: #F9F6EF;
+
+}
+.banner-section{
+    width: 100%;
+    height: 100vh;
+   
+}
+.content{
+    place-content: center;
+    min-height: 550px;
+    margin: 100px;
+}
+.content h1{
+    font-weight: bold;
+font-size: 65px;
+text-align: center;
+}
+.content p{
+    width: 80%;
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+
+}
+.content .btn{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+}
+.btn button{
+    border: none;
+    background-color: #FFF08D;
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+    color: #154A66;
+    cursor: pointer;
+}
+.btn button:hover{
+    background-color: #D3D7DC;
+}
+@media screen and (max-width:1100px) {
+
+    .banner{
+    background-image: url('../images/Visuel_Cosmetique_Amlat_2023.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-blend-mode: multiply;
+    background-position: center;
+    height: 100vh;
+    color:#154A66;
+    background-color: #F9F6EF;
+
+}
+.banner-section{
+    width: 100%;
+    height: auto;
+   
+}
+
+.content{
+    place-content: center;
+    min-height: 550px;
+    margin: 0px;
+}
+
+
+
+.content h1{
+    font-weight: bold;
+font-size: 45px;
+text-align: center;
+}
+.content p{
+    width: 80%;
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+
+}
+.content .btn{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;
+}
+.btn button{
+    border: none;
+    background-color: #FFF08D;
+    width: 200px;
+    height: 35px;
+    font-size: 20px;
+    color: #154A66;
+    cursor: pointer;
+}
+.btn button:hover{
+    background-color: #D3D7DC;
+}
+
+
+
+
+}

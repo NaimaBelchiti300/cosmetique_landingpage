@@ -1,0 +1,173 @@
+.bestsilling{
+    width: 100%;
+    height: 180vh;
+    background-color: #F5E5CC;
+display: block;
+place-content: center;
+}
+.bestsilling h1{
+    color: #394A4E;
+    padding: 50px;
+    font-size: 45px;
+}
+.imagess{
+    width: 100%;
+    display: flex;
+}
+.img1{
+    width: 50%;
+    margin-left: 30px;
+}
+.img1 img{
+    width: 100%;
+}
+ .p1{
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+
+.p2{
+    color: rgb(52, 52, 52);
+    font-size: 15px;
+}
+
+.img1 button{
+    background-color: #FFF08D;
+    color: #394A4E;
+    border-color: #FFF08D;
+    border: none;
+    font-size: 15px;
+    height:25px ;
+    margin-top: 15px;
+width: 120px;
+}
+.img1 button:hover{
+    background-color: #D3D7DC;
+    border: none;
+    cursor: pointer;
+}
+.img2{
+    width: 50%;
+    margin-left: 50px;
+
+    }
+
+.imgs1flex{
+    display: flex;
+
+}
+
+.img2 button{
+    background-color: #FFF08D;
+    color: #394A4E;
+    border-color: #FFF08D;
+    border: none;
+    font-size: 15px;
+    height:25px ;
+    margin-top: 15px;
+width: 120px;
+}
+.img2 button:hover{
+    background-color: #D3D7DC;
+    border: none;
+    cursor: pointer;
+}
+.imgs2flex{
+display: flex;
+margin-top: 70px;
+}
+
+.seconddivimge{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+@media screen and (max-width:1100px) {
+    .imagess{
+        flex-wrap: wrap;
+        width: 100% ;
+    }
+    .img1{
+        width: 100%;
+        margin-left: 0px;
+  
+    }
+    .btn-best{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
+    .bestsilling{
+        height: auto;
+    }
+    .h1{
+        text-align: center;
+    }
+.p1,.p2{
+    text-align: center;
+}
+   
+.img1 button{
+    background-color: #FFF08D;
+    color: #394A4E;
+    border-color: #FFF08D;
+    border: none;
+    font-size: 15px;
+    height:25px ;
+    margin-top: 20px;
+width: 120px;
+}
+
+
+
+.img2{
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 20px;
+    }
+
+    .imgs1flex{
+        flex-wrap: wrap;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+    .imgs1flex img{
+        width: 100%;
+    }
+    .imgs2flex{
+        flex-wrap: wrap;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+    .imgs2flex img{
+        width: 100%;
+
+    }
+
+    .img2 button{
+        background-color: #FFF08D;
+        color: #394A4E;
+        border-color: #FFF08D;
+        border: none;
+        font-size: 15px;
+        height:25px ;
+        margin-top: 20px;
+    width: 120px;
+    }
+.seconddivimge{
+    margin-bottom: 30px;
+}
+
+}
+
