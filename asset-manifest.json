@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/cosmetique_landingpage/static/css/main.724ca41e.css",
+    "main.js": "/cosmetique_landingpage/static/js/main.fbce6db6.js",
+    "static/js/453.e7c26f6c.chunk.js": "/cosmetique_landingpage/static/js/453.e7c26f6c.chunk.js",
+    "static/media/card3.png": "/cosmetique_landingpage/static/media/card3.04d99376cbcfa3e2e6a9.png",
+    "static/media/card2.png": "/cosmetique_landingpage/static/media/card2.834e9e5911ab97179c9a.png",
+    "static/media/p1.png": "/cosmetique_landingpage/static/media/p1.3d65a35e02eac481fb7a.png",
+    "static/media/card1.png": "/cosmetique_landingpage/static/media/card1.54556ad8ae3fd399ce4e.png",
+    "static/media/Visuel_Cosmetique_Amlat_2023.jpg": "/cosmetique_landingpage/static/media/Visuel_Cosmetique_Amlat_2023.13309da672e0f499428f.jpg",
+    "static/media/bodycare.png": "/cosmetique_landingpage/static/media/bodycare.9f6afac1f2ce8ef5bd2a.png",
+    "static/media/p3.png": "/cosmetique_landingpage/static/media/p3.c4e3a12c96c094fc7be4.png",
+    "static/media/p2.png": "/cosmetique_landingpage/static/media/p2.fed3dd08bbd0189f703f.png",
+    "static/media/mackupface.png": "/cosmetique_landingpage/static/media/mackupface.2271a0184d2c2a65b5f6.png",
+    "static/media/p4.png": "/cosmetique_landingpage/static/media/p4.45de9a8a7f40eb0784ee.png",
+    "static/media/p5.png": "/cosmetique_landingpage/static/media/p5.df2eb9ae666ec3fe1999.png",
+    "static/media/image-removebg-preview (13).png": "/cosmetique_landingpage/static/media/image-removebg-preview (13).5bcc0624f5a783f39a8f.png",
+    "static/media/cosmetic.jpg": "/cosmetique_landingpage/static/media/cosmetic.1eb60a0b759f48ef6106.jpg",
+    "static/media/image-removebg-preview (22).png": "/cosmetique_landingpage/static/media/image-removebg-preview (22).b74ef6f36f3312318f1c.png",
+    "static/media/logoimg2.png": "/cosmetique_landingpage/static/media/logoimg2.35027f5b9d89c39e1357.png",
+    "index.html": "/cosmetique_landingpage/index.html",
+    "main.724ca41e.css.map": "/cosmetique_landingpage/static/css/main.724ca41e.css.map",
+    "main.fbce6db6.js.map": "/cosmetique_landingpage/static/js/main.fbce6db6.js.map",
+    "453.e7c26f6c.chunk.js.map": "/cosmetique_landingpage/static/js/453.e7c26f6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.724ca41e.css",
+    "static/js/main.fbce6db6.js"
+  ]
+}
